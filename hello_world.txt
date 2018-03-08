@@ -1,1 +1,2 @@
 hello world, quick test
+Quick test for diff
